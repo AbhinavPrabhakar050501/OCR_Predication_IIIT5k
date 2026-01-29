@@ -1,0 +1,10 @@
+torch>=2.0.0
+torchvision
+numpy
+opencv-python
+pandas
+tqdm
+python-Levenshtein
+gradio
+matplotlib
+onnxruntime
